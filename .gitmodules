@@ -1,0 +1,4 @@
+[submodule "external/kompute"]
+	path = external/kompute
+	url = https://github.com/KomputeProject/kompute.git
+	branch = main
